@@ -1,4 +1,4 @@
-package cl.ipp.ic.figuras;
+package cl.ipp.ic;
 
 import cl.ipp.ic.biblioteca.entidades.GestorBiblioteca;
 import cl.ipp.ic.biblioteca.entidades.Libros;
